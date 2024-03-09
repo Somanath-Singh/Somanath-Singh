@@ -1,4 +1,4 @@
-![logo](https://github.com/Somanath-Singh/Somanath-Singh/blob/main/github_profile.png)
+![logo](https://github.com/Somanath-Singh/Somanath-Singh/blob/main/github-header-img.png)
 <h1 align="center">Hi 👋, I'm Somanath Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
