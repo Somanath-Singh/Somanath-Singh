@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanath-singh&label=Profile%20views&color=0e75b6&style=flat" alt="somanath-singh" /> </p>
 
-- 🔭 I’m currently pursuing MCA final year at **Indira Gandhi Institute of Technology ,Sarang**
+- 🔭I recently completed masters from computer science at **Indira Gandhi Institute of Technology ,Sarang**
 
 - 🌱 I’m currently learning **Springboot MVC**
 
