@@ -8,7 +8,7 @@
 
 - 🔭I recently completed masters from computer science at **Indira Gandhi Institute of Technology ,Sarang**
 
-- 🌱 I’m currently learning **Springboot MVC**
+- 🌱 I’m currently learning **React JS**
 
 - I'm currently working on **Computer Science Department Website**
 
