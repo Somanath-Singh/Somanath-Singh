@@ -1,11 +1,8 @@
 ![logo](https://github.com/Somanath-Singh/Somanath-Singh/blob/main/header-img.jpg)
 <h1 align="center">Hi 👋, I'm Somanath Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <img src="https://camo.githubusercontent.com/11f260a2d2e6b06ff7ed5f3badbf3a6007d43f88d69a3f4818644ea715c294ac/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f6d616e6174682d73696e6768266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somanath-singh&label=Profile%20views&color=0e75b6&style=flat" alt="somanath-singh" /> </p>
 
 - 🔭I completed my MCA from  **Indira Gandhi Institute of Technology ,Sarang**
 
@@ -17,7 +14,7 @@
 <dd>HTML5, CSS3, JAVASCRIPT, BOOTSTRAP</dd>
 <dt>Backend Technology</dt>
 <dd>ADVANCED JAVA/J2EE - JDBC, JSP, SERVLET, JNDI</dd>
-<dt>Frameworks</dl>
+<dt>Frameworks</dt>
 <dd>SPRING, SPRING BOOT MVC, DATA JPA, SECURITY, REST API, REACT JS</dd>
 <dt>Versioning Control’s </dt>
 <dd>GIT, GITHUB</dd>
