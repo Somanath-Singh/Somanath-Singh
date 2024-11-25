@@ -6,9 +6,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanath-singh&label=Profile%20views&color=0e75b6&style=flat" alt="somanath-singh" /> </p>
 
-- 🔭I recently completed masters from computer science at **Indira Gandhi Institute of Technology ,Sarang**
+- 🔭I completed my MCA from  **Indira Gandhi Institute of Technology ,Sarang**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 <b>TECHNICAL SKILLS</b>
+<dl>
+  <dt>Core Java</dt>
+  <dd>OPP’S, COLLECTION FRAMEWORK, EXCEPTION HANDLING, MULTITHREADING</dd>
+<dt>Web Technology</dt>
+	  <dd>HTML5, CSS3, JAVASCRIPT, BOOTSTRAP</dd>
+	<dt>Backend Technology</dt>
+	  <dd>ADVANCED JAVA/J2EE - JDBC, JSP, SERVLET, JNDI</dd>
+	<dt></dt>Frameworks</dl>
+	<dd></dd>SPRING, SPRING BOOT MVC, DATA JPA, SECURITY, REST API, REACT JS</dd>
+	<dt></dt>Versioning Control’s </dt>
+	<dd></dd>GIT, GITHUB</dd>
+<dt>Tools</dt>
+<dd></dd>Skilled with ECLIPSE, POSTMAN and database GUI tools like SQL DEVELOPER and MYSQL WORKBENCH.</dd>
+	<dt></dt>SQL (Structured Query Language)</dt>
+<dd>Oracle, Mysql</dd>
+</dl>
+	
+
 
 - I'm currently working on **Computer Science Department Website**
 
