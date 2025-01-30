@@ -1,6 +1,7 @@
 ![logo](https://github.com/Somanath-Singh/Somanath-Singh/blob/main/header-img.jpg)
 <h1 align="center">Hi 👋, I'm Somanath Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<button href="https://somanath-singh.github.io/Somanath-Portfolio/" style="background-color:orange;">Portfolio</button>
 
 
 <img src="https://camo.githubusercontent.com/11f260a2d2e6b06ff7ed5f3badbf3a6007d43f88d69a3f4818644ea715c294ac/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f6d616e6174682d73696e6768266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="">
