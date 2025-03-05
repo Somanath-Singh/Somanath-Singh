@@ -5,36 +5,76 @@
 
 <img src="https://camo.githubusercontent.com/11f260a2d2e6b06ff7ed5f3badbf3a6007d43f88d69a3f4818644ea715c294ac/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f6d616e6174682d73696e6768266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="">
 
-- 🔭I completed my MCA from  **Indira Gandhi Institute of Technology ,Sarang**
-- <a href="https://somanath-singh.github.io/Somanath-Portfolio/" style="background-color:blue;">Portfolio</a>
+<div align="center" style="font-family: Arial, sans-serif; color: #333;">
+    <h1 style="color: #0077B5;">🚀 Somanath Singh</h1>
+    <h3 style="color: #ff6600;">💻 Java Backend Developer | Full Stack Enthusiast</h3>
 
-- 🌱 <b>TECHNICAL SKILLS</b>
-<dl>
-<dt>Core Java</dt>
-<dd>OPP’S, COLLECTION FRAMEWORK, EXCEPTION HANDLING, MULTITHREADING</dd>
-<dt>Web Technology</dt>
-<dd>HTML5, CSS3, JAVASCRIPT, BOOTSTRAP</dd>
-<dt>Backend Technology</dt>
-<dd>ADVANCED JAVA/J2EE - JDBC, JSP, SERVLET, JNDI</dd>
-<dt>Frameworks</dt>
-<dd>SPRING, SPRING BOOT MVC, DATA JPA, SECURITY, REST API, REACT JS</dd>
-<dt>Versioning Control’s </dt>
-<dd>GIT, GITHUB</dd>
-<dt>Tools</dt>
-<dd>Skilled with ECLIPSE, POSTMAN and database GUI tools like SQL DEVELOPER and MYSQL WORKBENCH.</dd>
-<dt>SQL (Structured Query Language)</dt>
-<dd>Oracle, Mysql</dd>
-</dl>
-	
+    <p style="font-size: 18px;">🔭 I completed my MCA from <strong>Indira Gandhi Institute of Technology, Sarang</strong></p>
 
+    <a href="https://somanath-singh.github.io/Somanath-Portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+    </a>
 
-- I'm currently working on **Computer Science Department Website**
+    <hr style="border: 1px solid #ddd; width: 80%;">
 
-- 💬 Ask me about **Core Java, JEE(JDBC,JSP,SERVLET), Spring ,Html5, Css3 ,Javascript**
+    <h2 style="color: #0077B5;">🌱 Technical Skills</h2>
 
-- 📫 How to reach me **somanathsingh531@gmail.com**
+    <table style="border-collapse: collapse; width: 80%; margin: auto; font-size: 16px;">
+        <tr style="background-color: #f8f8f8;">
+            <th style="border: 1px solid #ddd; padding: 8px;">Category</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">Skills</th>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Core Java</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">OOP’S, Collection Framework, Exception Handling, Multithreading</td>
+        </tr>
+        <tr style="background-color: #f8f8f8;">
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Web Technology</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">HTML5, CSS3, JavaScript, Bootstrap</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Backend Technology</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">JDBC, JSP, Servlet, JNDI</td>
+        </tr>
+        <tr style="background-color: #f8f8f8;">
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Frameworks</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Spring, Spring Boot MVC, JPA, Security, REST API, React.js</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Version Control</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Git, GitHub</td>
+        </tr>
+        <tr style="background-color: #f8f8f8;">
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Tools</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Eclipse, Postman, SQL Developer, MySQL Workbench</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Databases</strong></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Oracle, MySQL</td>
+        </tr>
+    </table>
 
-- ⚡ Fun fact **I am funny**
+    <hr style="border: 1px solid #ddd; width: 80%;">
+
+    <h2 style="color: #0077B5;">💬 Ask Me About</h2>
+    <p style="font-size: 18px;">Core Java, JEE (JDBC, JSP, Servlet), Spring Boot, HTML5, CSS3, JavaScript</p>
+
+    <h2 style="color: #0077B5;">📫 Connect with Me</h2>
+    <p>
+        <a href="mailto:somanathsingh531@gmail.com">
+            <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email">
+        </a>
+        <a href="https://github.com/Somanath-Singh">
+            <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+        </a>
+    </p>
+
+    <hr style="border: 1px solid #ddd; width: 80%;">
+
+    <h2 style="color: #0077B5;">⚡ Fun Fact</h2>
+    <p style="font-size: 18px;"> I am funny 😆 and love to build projects! 🚀</p>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
