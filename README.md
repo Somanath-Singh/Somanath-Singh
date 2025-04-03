@@ -39,6 +39,21 @@
 
 <hr style="border: 1px solid #ddd; width: 80%;">
 
+ <h2 style="color: #0077B5;">💬 Ask Me About</h2>
+ <p style="font-size: 18px;">Core Java, JEE (JDBC, JSP, Servlet), Spring Boot, HTML5, CSS3, JavaScript</p>
+
+ <h2 style="color: #0077B5;">📫 Connect with Me</h2>
+    <p>
+        <a href="mailto:somanathsingh531@gmail.com">
+            <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email">
+        </a>
+        <a href="https://github.com/Somanath-Singh">
+            <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+        </a>
+    </p>
+
+ <hr style="border: 1px solid #ddd; width: 80%;">
+
 <h2 style="color: #0077B5;">🌱 Technical Skills</h2>
 
 <table style="border-collapse: collapse; width: 80%; margin: auto; font-size: 16px;">
@@ -75,23 +90,6 @@
             <td style="border: 1px solid #ddd; padding: 8px;">Oracle, MySQL</td>
         </tr>
     </table>
-
-<hr style="border: 1px solid #ddd; width: 80%;">
-
- <h2 style="color: #0077B5;">💬 Ask Me About</h2>
- <p style="font-size: 18px;">Core Java, JEE (JDBC, JSP, Servlet), Spring Boot, HTML5, CSS3, JavaScript</p>
-
- <h2 style="color: #0077B5;">📫 Connect with Me</h2>
-    <p>
-        <a href="mailto:somanathsingh531@gmail.com">
-            <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email">
-        </a>
-        <a href="https://github.com/Somanath-Singh">
-            <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
-    </p>
-
- <hr style="border: 1px solid #ddd; width: 80%;">
 
 <h2 style="color: #0077B5;">⚡ Fun Fact</h2>
 <p style="font-size: 18px;"> I am funny 😆 and love to build projects! 🚀</p>
