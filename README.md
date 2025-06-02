@@ -12,12 +12,18 @@
 
 <hr style="border: 1px solid #ddd; width: 80%;">
 
+<p>🌟 Check out my GeeksforGeeks profile for coding challenges and tutorials:</p>
+<a href="https://www.geeksforgeeks.org/user/singhsomagauc/" target="_blank" class="gfg-link">
+  ➡️ GeeksforGeeks - singhsomagauc
+</a>
+
+<hr style="border: 1px solid #ddd; width: 80%;">
 
 <img src="https://camo.githubusercontent.com/11f260a2d2e6b06ff7ed5f3badbf3a6007d43f88d69a3f4818644ea715c294ac/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f6d616e6174682d73696e6768266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="">
     
 <a href="https://somanath-singh.github.io/Somanath-Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
-    </a>
+</a>
 
 <hr style="border: 1px solid #ddd; width: 80%;">
 
@@ -46,9 +52,6 @@
  
   <a href="mailto:somanathsingh531@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://github.com/Somanath-Singh"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-    <a href="https://github.com/Somanath-Singh">
-            <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
 </p>
 
  <hr style="border: 1px solid #ddd; width: 80%;">
@@ -124,3 +127,22 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Somanath-Singh&theme=dark&hide_border=true">
 </p>
+
+
+<style>
+  .gfg-link {
+    display: inline-block;
+    background: linear-gradient(90deg, #f7931e, #ffcc00);
+    color: white;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    transition: background 0.3s ease;
+  }
+  .gfg-link:hover {
+    background: linear-gradient(90deg, #ffcc00, #f7931e);
+  }
+</style>
