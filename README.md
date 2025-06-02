@@ -12,10 +12,17 @@
 
 <hr style="border: 1px solid #ddd; width: 80%;">
 
-<p>🌟 Check out my GeeksforGeeks profile for coding challenges and tutorials:</p>
-<a href="https://www.geeksforgeeks.org/user/singhsomagauc/" target="_blank" class="gfg-link">
+<p style="font-family: Arial, sans-serif; font-size: 16px; margin-bottom: 8px;">
+  🌟 Check out my GeeksforGeeks profile for coding challenges and tutorials:
+</p>
+<a href="https://www.geeksforgeeks.org/user/singhsomagauc/" target="_blank" 
+   style="display: inline-block; background: linear-gradient(90deg, #f7931e, #ffcc00); 
+          color: white; font-weight: bold; padding: 8px 16px; border-radius: 8px; 
+          text-decoration: none; box-shadow: 0 3px 6px rgba(0,0,0,0.2); 
+          font-family: Arial, sans-serif; transition: background 0.3s ease;">
   ➡️ GeeksforGeeks - singhsomagauc
 </a>
+
 
 <hr style="border: 1px solid #ddd; width: 80%;">
 
@@ -127,22 +134,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Somanath-Singh&theme=dark&hide_border=true">
 </p>
-
-
-<style>
-  .gfg-link {
-    display: inline-block;
-    background: linear-gradient(90deg, #f7931e, #ffcc00);
-    color: white;
-    font-weight: bold;
-    padding: 6px 12px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-family: Arial, sans-serif;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
-    transition: background 0.3s ease;
-  }
-  .gfg-link:hover {
-    background: linear-gradient(90deg, #ffcc00, #f7931e);
-  }
-</style>
