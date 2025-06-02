@@ -16,10 +16,11 @@
   🌟 Check out my GeeksforGeeks profile for coding challenges and tutorials:
 </p>
 <a href="https://www.geeksforgeeks.org/user/singhsomagauc/" target="_blank" 
-   style="display: inline-block; background: linear-gradient(90deg, #f7931e, #ffcc00); 
+   style="display: inline-flex; align-items: center; background: linear-gradient(90deg, #f7931e, #ffcc00); 
           color: white; font-weight: bold; padding: 8px 16px; border-radius: 8px; 
-          text-decoration: none; box-shadow: 0 3px 6px rgba(0,0,0,0.2); 
-          font-family: Arial, sans-serif; transition: background 0.3s ease;">
+          text-decoration: none; font-family: Arial, sans-serif;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/GeeksforGeeks_logo.svg" 
+       alt="GFG Logo" style="width:20px; height:20px; margin-right: 8px;">
   ➡️ GeeksforGeeks - singhsomagauc
 </a>
 
