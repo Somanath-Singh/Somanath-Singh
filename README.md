@@ -43,14 +43,13 @@
  <p style="font-size: 18px;">Core Java, JEE (JDBC, JSP, Servlet), Spring Boot, HTML5, CSS3, JavaScript</p>
 
  <h2 style="color: #0077B5;">📫 Connect with Me</h2>
-    <p>
-        <a href="mailto:somanathsingh531@gmail.com">
-            <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email">
-        </a>
-        <a href="https://github.com/Somanath-Singh">
+ 
+  <a href="mailto:somanathsingh531@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/Somanath-Singh"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+    <a href="https://github.com/Somanath-Singh">
             <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
         </a>
-    </p>
+</p>
 
  <hr style="border: 1px solid #ddd; width: 80%;">
 
@@ -95,8 +94,33 @@
 <p style="font-size: 18px;"> I am funny 😆 and love to build projects! 🚀</p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somanath-singh&show_icons=true&locale=en&layout=compact" alt="somanath-singh" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somanath-singh&show_icons=true&locale=en" alt="somanath-singh" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somanath-Singh&show_icons=true&theme=github_dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath-Singh&layout=compact&theme=github_dark" width="48%">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somanath-singh&" alt="somanath-singh" /></p>
+### 🚀 Languages & Tools
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%236DB33F?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Somanath-Singh&theme=dark&hide_border=true">
+</p>
