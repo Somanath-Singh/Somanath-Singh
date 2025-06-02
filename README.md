@@ -15,17 +15,13 @@
 <p style="font-family: Arial, sans-serif; font-size: 16px; margin-bottom: 8px;">
   🌟 Check out my GeeksforGeeks profile for coding challenges and tutorials:
 </p>
-<div style="display: flex; align-items: center; gap: 12px; font-family: Arial, sans-serif;">
 
-  <a href="https://www.geeksforgeeks.org/user/singhsomagauc/" target="_blank" 
-     style="display: inline-flex; align-items: center; background: linear-gradient(90deg, #f7931e, #ffcc00); 
-            color: white; font-weight: bold; padding: 8px 16px; border-radius: 8px; 
-            text-decoration: none; box-shadow: 0 3px 6px rgba(0,0,0,0.2);">
+<div>
+  <a href="https://www.geeksforgeeks.org/user/singhsomagauc/" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" 
          alt="GFG Logo" style="width:20px; height:20px; margin-right: 8px; border-radius: 3px;">
     ➡️ GeeksforGeeks - singhsomagauc
   </a>
-
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
 </div>
 
